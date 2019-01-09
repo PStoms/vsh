@@ -4,7 +4,7 @@
 **Masina spessifikatsioonid**
 >MASIN: vsh-patrick
 >
->Adapter: NAT
+>Adapter: BRIDGED
 >
 >ip:172.23.13.30
 >
