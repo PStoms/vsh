@@ -1,7 +1,7 @@
 # VSH
 ## Esimene praktikum
 
-**Masina spessifikatsioonid**
+**Masina spetsifikatsioonid**
 >MASIN: vsh-patrick
 >
 >Adapter: BRIDGED
