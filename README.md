@@ -2,18 +2,18 @@
 ## Esimene praktikum
 
 **Masina spessifikatsioonid**
-MASIN: vsh-patrick
+>MASIN: vsh-patrick
 
-Adapter: NAT
+>Adapter: NAT
 
-ip:172.23.13.30
+>ip:172.23.13.30
 
-Mac: 080027BCE9EA
+>Mac: 080027BCE9EA
 
-Ram: 1GB
+>Ram: 1GB
 
-Kettamaht: 8GB
+>Kettamaht: 8GB
 
-OS: debian 8.10 https://cdimage.debian.org/cdimage/archive/8.10.0/amd64/iso-cd/
+>OS: debian 8.10 https://cdimage.debian.org/cdimage/archive/8.10.0/amd64/iso-cd/
    
 
