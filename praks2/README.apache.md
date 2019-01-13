@@ -1,6 +1,6 @@
-#Apache2
+# Apache2
 
-##installimine
+## installimine
 
 Apache2 installeerimiseks sisestasin käsu
 
