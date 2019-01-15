@@ -67,7 +67,7 @@ Include /etc/phpmyadmin/apache.conf
 ```
 systemctl restart apache2 
 ```
-Järgmisena läksin phpmyadmin lehele sisestades 172.23.13.49/phpmyadmin ja logisin
+Järgmisena läksin phpmyadmin lehele sisestades 172.23.13.30/phpmyadmin ja logisin
 sisse kontoga root ja parooliga qwerty
 
 # php lehe tegemine
