@@ -5,7 +5,7 @@
 Apache2 installeerimiseks sisestasin käsu
 
 ```
-apt-get apache2
+apt-get install apache2
 ```
 peale seda muutsin index.html faili ära.
 
